@@ -1,4 +1,7 @@
-# PlantDiseaseDetectionApp (CS-F266 SOP, Supervisor - Prof. Sundaresan Raman)
+# PlantDiseaseDetectionApp (CS-F266 SOP, Supervisor - [Prof. Sundaresan Raman](https://www.bits-pilani.ac.in/pilani/sundaresanraman/profile))
+
+NOTE:- Code for ML model (Tensorflow on AlexNet) is given [here](https://github.com/vermasrijan/Plant_Disease_Detection_ML_Python) .<br/>
+
 Plant Disease Detection using ML model and Android App .
 CropTec_Ver1.0 is an Android Application which is used for detecting crop diseases using images of crop plants .
 
